@@ -8,3 +8,8 @@ in my db it would be something like this:<br>
 the .env-file should be in the /app/ directory and should have two vaiables.<br>
 1. the mongodb-uri. (i.e. "mongodb://localhost")<br>
 2. the port that mongodb is running on (default is 27017)<br>
+<br><br>
+### TODO NEXT:<br>
+1. Add users through API.
+2. Delete users through API.
+3. Modify users through API.
